@@ -3,3 +3,16 @@ description: Oracle Cloud Architect | Cloud Native Consultant | Oracle FMW | Dev
 author: Pathikreet Dutta
 avatar: /assets/DSC02334.JPG
 theme: jekyll-theme-slate
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+social-network-links:
+  email: "pathikreet.dutta@outlook.com"
+  github: pathikreet
+  twitter: pathikreet
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
